@@ -11,7 +11,7 @@
 
 - :zap:  Interesting fact: I love learning
   
-- :mailbox: How to contact me: IV_Filippova on Telegram
+- :mailbox: How to contact me: @IV_Filippova on Telegram
 
 
 ### :hammer_and_wrench: Languages and Tools :
