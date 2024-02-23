@@ -7,7 +7,7 @@
 ### :woman_technologist: About Me :
 - :telescope: I am studying automated testing in Python and Java.
 
-- :seedling: I am currently looking for a position as a quality control engineer
+- :seedling: I am currently looking for a position as the tester
 
 - :zap:  Interesting fact: I love learning
   
